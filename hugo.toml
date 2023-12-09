@@ -1,4 +1,13 @@
 baseURL = 'https://satriacode.org/'
 languageCode = 'en-us'
 title = 'Komunitas IT Purwokerto'
-theme = 'ananke'
+theme = 'anatole-1.13.0'
+[params]
+title = 'SatriaCode'
+author = "SatriaCode"
+description = "Wadah Komunitas IT Purwokerto untuk <strong>Berkreasi</strong>, <strong>Terkoneksi</strong> dan <strong>Berkolaborasi</strong>"
+profilePicture = "images/pp.png"
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:root.satriacode@gmail.com"

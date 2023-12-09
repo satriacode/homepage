@@ -1,3 +1,6 @@
 baseURL = 'https://satriacode.org/'
 languageCode = 'en-us'
 title = 'Komunitas IT Purwokerto'
+author = "Jane Doe"
+description = "Call me Jane"
+profilePicture = "images/profile.png"
