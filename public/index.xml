@@ -6,14 +6,17 @@
     <description>Recent content on Komunitas IT Purwokerto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Dec 2023 11:06:10 +0700</lastBuildDate><atom:link href="https://satriacode.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Dec 2023 11:06:10 +0700</lastBuildDate><atom:link href="https://satriacode.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>Hello World, Meetup pertama!</title>
       <link>https://satriacode.org/posts/hello-world/</link>
-      <pubDate>Thu, 07 Dec 2023 11:06:10 +0700</pubDate>
+      <pubDate>Sat, 09 Dec 2023 11:06:10 +0700</pubDate>
       
       <guid>https://satriacode.org/posts/hello-world/</guid>
-      <description>From mendoan to codingan</description>
+      
+        <description>&lt;p&gt;Alhamdulillah untuk pertama kalinya kami bisa mengadakan meetup sebagai komunitas programmer (atau IT pada umumnya) area Purwokerto dan sekitarnya. Meetup pertama ini diadakan di &lt;a href=&#34;https://maps.app.goo.gl/dWjmugwwRTKWVXfg9&#34;&gt;Laguna Cafe&lt;/a&gt;, cafe dekat UMP yang cozy, penjualnya friendly, dan backsound nya gak mengganggu telinga kami, hehe&amp;hellip;
+Ada banyak hal yang dibahas pada meetup ini, sebagai programmer pastinya tidak jauh dari soal &lt;del&gt;mendoan&lt;/del&gt; codingan dan bagaimana melakukan git blame dengan baik dan benar. Joke aside! beberapa hal yang dibahas adalah:&lt;/p&gt;</description>
+      
     </item>
     
   </channel>
