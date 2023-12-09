@@ -24,6 +24,6 @@ Untuk profesi yang terkenal dengan jam kerja yang kurang teratur, masalah WLB in
 
 Selain itu tentunya masih banyak lagi yang tidak cukup dituliskan satu persatu disini. Untuk itu kami mengundang segenap insan ~~paripurna~~ informatika terutama yang berada di daerah Purwokerto dan sekitarnya untuk bergabung ke dalam komunitas kami dan kita ~~pesan mendoan~~ agendakan meetup berikutnya.
 
-Untuk yang mau ~~nitip absen~~ ikut komunitas ini silakan email ke kami ya (alamat email ada di samping kiri, bawah header site), cukup sebutkan nama dan URL Linkedin kalian, thanks!
+Untuk yang mau ~~nitip absen~~ ikut komunitas ini silakan email ke kami ya (alamat email ada di samping kiri atau bawah header site), cukup sebutkan nama dan URL Linkedin kalian, thanks!
 
 {{< figure src="../../images/meetup.jpeg" title="Meetup pertama baru tiga yang bisa hadir, NB: pose jari bukan kampanye ya" >}}
