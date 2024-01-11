@@ -47,4 +47,9 @@ So, demikian saja tips dari saya, semoga mendapatan kemudahan dalam belajar.
 Salam Ngapak
 
 
+*author*
+
+<a href="https://www.linkedin.com/in/galih-azizi-firmansyah-402205103/" target="blank">Galih Azizi</a>
+
+
 
