@@ -1,7 +1,17 @@
 baseURL = 'https://satriacode.org/'
 languageCode = 'en-us'
 title = 'Komunitas IT Purwokerto'
-author = "Jane Doe"
-description = "Call me Jane"
-profilePicture = "images/profile.png"
+theme = 'anatole-1.13.0'
 summarylength = 70
+[params]
+title = 'SatriaCode'
+author = "SatriaCode"
+description = "Wadah Komunitas IT Purwokerto untuk <strong>Berkreasi</strong>, <strong>Terkoneksi</strong> dan <strong>Berkolaborasi</strong>"
+profilePicture = "images/pp.png"
+readMore = true
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:root.satriacode@gmail.com"
+[markup.goldmark.renderer]
+unsafe= true
