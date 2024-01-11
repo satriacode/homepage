@@ -41,7 +41,7 @@ Kalian bisa join ke channel ini https://discord.gg/english di discord dan bertem
 
 Satu lagi, buat teman-teman yang masih kurang percaya diri saat speaking ada satu tips biar makin PeDe, yaitu **Tak perlu memikirkan anggapan orang lain atas pengucapan bahasa inggris kita**. Yang penting berusaha saja mengutarakan apa yang ingin kita sampaikan. **Everybody has their own problem and insecurities**. Lawan bicara kita bukan seorang Nabi yang bisa mendapatkan wahyu tentang isi pikiran kita, tapi seorang manusia biasa yang punya rasa stress dan punya masalahnya masing-masing. Hal ini juga bisa diterapkan tidak hanya saat speaking bahasa inggris, namun juga berlaku secara umum saat kita akan mengemukakan pendapat kepada orang lain.
 
-So, demikian saja tips dari saya, semoga mendapatan kemudahan dalam belajar.
+So, demikian saja tips dari saya, semoga mendapatkan kemudahan dalam belajar.
 
 
 Salam Ngapak
