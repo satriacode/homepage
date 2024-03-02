@@ -2,31 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Komunitas IT Purwokerto</title>
-    <link>https://satriacode.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Komunitas IT Purwokerto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jan 2024 13:24:00 +0700</lastBuildDate><atom:link href="https://satriacode.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jan 2024 13:24:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manfaat menguasai bahasa Inggris dan 3 Tips mudah mempelajarinya</title>
-      <link>https://satriacode.org/posts/tips-berbicara-bahasa-inggris/</link>
+      <link>http://localhost:1313/posts/tips-berbicara-bahasa-inggris/</link>
       <pubDate>Wed, 10 Jan 2024 13:24:00 +0700</pubDate>
       
-      <guid>https://satriacode.org/posts/tips-berbicara-bahasa-inggris/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;../../images/hello-1502369_640.png&#34;/&gt;
+      <guid>http://localhost:1313/posts/tips-berbicara-bahasa-inggris/</guid>
+      
+        <description>&lt;figure&gt;&lt;img src=&#34;../../images/hello-1502369_640.png&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Halo para sedulur, tahukah kamu? Menguasai bahasa inggris memiliki manfaat yang sungguh besar, terutama untuk kita yang bergelut dibidang IT. Karena menurut salah satu pusat layanan bahasa di Amerika, jumlah orang yang berbahasa inggris diseluruh dunia adalah sekitar 1.5 Miliar manusia. Kalau dibandingkan dengan jumlah penutur bahasa indonesia yang sekitar 250-an juta orang, 1.5 Miliar adalah jumlah yang sangat banyak. Tentunya hal tersebut sangat berpengaruh untuk karir kita jika mampu menguasainya. Diantara manfaat yang ada adalah&lt;/p&gt;</description>
+      
     </item>
     
     <item>
       <title>Hello World, Meetup pertama!</title>
-      <link>https://satriacode.org/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Sat, 09 Dec 2023 11:06:10 +0700</pubDate>
       
-      <guid>https://satriacode.org/posts/hello-world/</guid>
-      <description>&lt;p&gt;Alhamdulillah untuk pertama kalinya kami bisa mengadakan meetup sebagai komunitas programmer (atau IT pada umumnya) area Purwokerto dan sekitarnya. Meetup pertama ini diadakan di &lt;a href=&#34;https://maps.app.goo.gl/dWjmugwwRTKWVXfg9&#34;&gt;Laguna Cafe&lt;/a&gt;, cafe dekat UMP yang cozy, penjualnya friendly, dan backsound nya gak mengganggu telinga kami, hehe&amp;hellip;
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      
+        <description>&lt;p&gt;Alhamdulillah untuk pertama kalinya kami bisa mengadakan meetup sebagai komunitas programmer (atau IT pada umumnya) area Purwokerto dan sekitarnya. Meetup pertama ini diadakan di &lt;a href=&#34;https://maps.app.goo.gl/dWjmugwwRTKWVXfg9&#34;&gt;Laguna Cafe&lt;/a&gt;, cafe dekat UMP yang cozy, penjualnya friendly, dan backsound nya gak mengganggu telinga kami, hehe&amp;hellip;
 Ada banyak hal yang dibahas pada meetup ini, sebagai programmer pastinya tidak jauh dari soal &lt;del&gt;mendoan&lt;/del&gt; codingan dan bagaimana melakukan git blame dengan baik dan benar. Joke aside! beberapa hal yang dibahas adalah:&lt;/p&gt;</description>
+      
     </item>
     
   </channel>
