@@ -21,7 +21,7 @@ Website komunitas sekarang memang masih sangat basic. Kami berencana merombak de
 
 ## 4. Seminar, Webinar, Workshop, Conference
 
-*At some point*, kami berkeinginan mengadakan event untuk public baik itu berbentuk Seminar, Webinar, Workshop maupun Conference. Disamping soal topik dan pemateri, kami juga masih terbuka soal sponsor untuk acara seperti ini. hehe...
+*At some point*, kami berkeinginan mengadakan event untuk *public* baik itu berbentuk *Seminar, Webinar, Workshop* maupun *Conference*. Disamping soal topik dan pemateri, kami juga masih terbuka soal sponsor untuk acara seperti itu. hehe...
 
 Berikut di bawah ini adalah beberapa gambar yang diambil selama dan sesudah event. Sampai jumpa di *Meetup* berikutnya... :)
 
