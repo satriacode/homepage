@@ -17,7 +17,7 @@ Sebagai komunitas kami ingin berkontribusi melalui proyek *Open Source* dengan m
 
 ## 3. Redesign Homepage
 
-Website komunitas sekarang memang masih sangat *basic*. Kami berencana merombak dengan tambahan beberapa section seperti Jadwal Meetup, halaman Member, *Call to Action* untuk mendaftar komunitas, list proyek Open Source, halaman About, dan lainnya. Untuk yang belum tahu, website komunitas ini terbuka dan mengundang siapapun dari kalian yang ingin berkontribusi mengirimkan konten, dengan melakukan *pull request* ke repository ini. Topik apapun bebas asalkan berhubungan dengan Teknologi maupun Pemrograman, dengan tentunya tidak mengandung isu SARA, ujaran kebencian dan hal-hal negatif lainnya, yang kami rasa *common sense* dan tidak perlu penjabaran lebih lanjut :)
+Website komunitas sekarang memang masih sangat *basic*. Kami berencana merombak dengan tambahan beberapa section seperti Jadwal Meetup, halaman Member, *Call to Action* untuk mendaftar komunitas, list proyek Open Source, halaman About, dan lainnya. Untuk yang belum tahu, website komunitas ini terbuka dan mengundang siapapun dari kalian yang ingin berkontribusi mengirimkan konten, dengan melakukan *pull request* ke repository [ini](https://github.com/satriacode/homepage). Topik apapun bebas asalkan berhubungan dengan Teknologi maupun Pemrograman, dengan tentunya tidak mengandung isu SARA, ujaran kebencian dan hal-hal negatif lainnya, yang kami rasa *common sense* dan tidak perlu penjabaran lebih lanjut :)
 
 ## 4. Seminar, Webinar, Workshop, Conference
 
