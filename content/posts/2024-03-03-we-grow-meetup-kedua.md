@@ -23,6 +23,8 @@ Website komunitas sekarang memang masih sangat basic. Kami berencana merombak de
 
 *At some point*, kami berkeinginan mengadakan event untuk public baik itu berbentuk Seminar, Webinar, Workshop maupun Conference. Disamping soal topik dan pemateri, kami juga masih terbuka soal sponsor untuk acara seperti ini. hehe...
 
+Berikut di bawah ini adalah beberapa gambar yang diambil selama dan sesudah event. Sampai jumpa di *Meetup* berikutnya... :)
+
 ![Member komunitas Meetup #2](/img/tiara_no_smoke_optimized.jpg)
 
 ![Member komunitas berpose](/img/stand_pose_optimized.jpg)
