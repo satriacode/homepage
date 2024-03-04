@@ -13,5 +13,9 @@ readMore = true
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:root.satriacode@gmail.com"
+[[params.socialIcons]] 
+icon = "fab fa-instagram" 
+title = "Instagram" 
+url = "https://www.instagram.com/satriacode/"
 [markup.goldmark.renderer]
 unsafe= true
